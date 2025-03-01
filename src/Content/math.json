@@ -1,0 +1,439 @@
+{
+   "topics": [
+      {
+         "tittle": "Operações Basicas",
+         "text": [
+            {
+               "mainTitle": "Operações Básicas",
+               "content": "A matemática é fundamental no nosso dia a dia, e as quatro operações básicas — adição, subtração, multiplicação e divisão — são essenciais para resolver problemas de maneira prática e eficiente."
+            },
+            {
+               "title": "Adição (+)",
+               "content": "A adição é a operação que junta dois ou mais números, resultando em um total.\nExemplo: 5 + 3 = 8\n\nPropriedades:\n- Comutativa: A ordem dos números não altera o resultado. Exemplo: 4 + 7 = 7 + 4 = 11\n- Associativa: Podemos agrupar os números de diferentes formas sem mudar o resultado. Exemplo: (2 + 3) + 4 = 2 + (3 + 4) = 9\n- Elemento Neutro: O zero não altera o valor na adição. Exemplo: 6 + 0 = 6"
+            },
+            {
+               "title": "Subtração (-)",
+               "content": "A subtração indica a diferença entre dois números, ou seja, quanto um número é menor que o outro.\nExemplo: 10 - 4 = 6\n\nPropriedades:\n- Não é comutativa: Mudar a ordem dos números altera o resultado. Exemplo: 9 - 5 ≠ 5 - 9\n- Não possui um elemento neutro como na adição."
+            },
+            {
+               "title": "Multiplicação (×)",
+               "content": "A multiplicação representa a soma repetida de um número.\nExemplo: 3 × 4 = 12\n\nPropriedades:\n- Comutativa: A ordem dos fatores não altera o produto. Exemplo: 5 × 2 = 2 × 5 = 10\n- Associativa: Podemos agrupar os números sem mudar o resultado. Exemplo: (2 × 3) × 4 = 2 × (3 × 4) = 24\n- Elemento Neutro: O número 1 não altera o valor. Exemplo: 7 × 1 = 7\n- Elemento Nulo: Qualquer número multiplicado por 0 resulta em 0. Exemplo: 9 × 0 = 0"
+            },
+            {
+               "title": "Divisão (÷ ou /)",
+               "content": "A divisão separa um número em partes iguais.\nExemplo: 12 ÷ 4 = 3\n\nTipos de Divisão:\n- Exata: Quando o resultado é um número inteiro. Exemplo: 20 ÷ 5 = 4\n- Não exata: Quando o resultado não é inteiro e sobra um valor (resto). Exemplo: 10 ÷ 3 = 3 (resto 1)\n\nPropriedades:\n- Não é comutativa: Mudar a ordem dos números altera o resultado. Exemplo: 8 ÷ 2 ≠ 2 ÷ 8\n- Elemento Neutro: O número 1 mantém o valor original. Exemplo: 15 ÷ 1 = 15\n- Não existe divisão por zero."
+            }
+         ],
+         "quiz": [
+            {
+               "question": "Qual é o resultado de 7 + 5?",
+               "options": [
+                  "10",
+                  "11",
+                  "12",
+                  "13"
+               ],
+               "answer": "12"
+            },
+            {
+               "question": "Qual propriedade afirma que mudar a ordem dos números na adição não altera o resultado?",
+               "options": [
+                  "Associativa",
+                  "Comutativa",
+                  "Distributiva",
+                  "Identidade"
+               ],
+               "answer": "Comutativa"
+            },
+            {
+               "question": "Qual é o elemento neutro na adição?",
+               "options": [
+                  "0",
+                  "1",
+                  "10",
+                  "-1"
+               ],
+               "answer": "0"
+            },
+            {
+               "question": "Qual das seguintes afirmações é verdadeira sobre a subtração?",
+               "options": [
+                  "Ela é comutativa",
+                  "Ela tem um elemento neutro",
+                  "Mudar a ordem dos números altera o resultado",
+                  "Ela segue a propriedade associativa"
+               ],
+               "answer": "Mudar a ordem dos números altera o resultado"
+            },
+            {
+               "question": "O que a multiplicação representa?",
+               "options": [
+                  "A subtração de números repetidos",
+                  "A adição de números repetidos",
+                  "A divisão de números em partes iguais",
+                  "A comparação entre dois números"
+               ],
+               "answer": "A adição de números repetidos"
+            },
+            {
+               "question": "Qual desses números é o elemento nulo na multiplicação?",
+               "options": [
+                  "1",
+                  "0",
+                  "10",
+                  "-1"
+               ],
+               "answer": "0"
+            },
+            {
+               "question": "Qual é o resultado de 6 × 3?",
+               "options": [
+                  "9",
+                  "12",
+                  "15",
+                  "18"
+               ],
+               "answer": "18"
+            },
+            {
+               "question": "Qual tipo de divisão possui um resto?",
+               "options": [
+                  "Exata",
+                  "Não exata",
+                  "Neutra",
+                  "Associativa"
+               ],
+               "answer": "Não exata"
+            },
+            {
+               "question": "O que acontece se você dividir qualquer número por 1?",
+               "options": [
+                  "O resultado sempre será 0",
+                  "O resultado permanece o mesmo número original",
+                  "O resultado sempre será 1",
+                  "O resultado será negativo"
+               ],
+               "answer": "O resultado permanece o mesmo número original"
+            },
+            {
+               "question": "Por que a divisão por zero é indefinida?",
+               "options": [
+                  "Porque o zero não tem valor",
+                  "Porque sempre resulta em infinito",
+                  "Porque não existe número que multiplicado por 0 resulte em um valor diferente de zero",
+                  "Porque o resultado é sempre 1"
+               ],
+               "answer": "Porque não existe número que multiplicado por 0 resulte em um valor diferente de zero"
+            }
+         ]
+      },
+      {
+         "tittle": "Frações",
+         "text": [
+            {
+               "mainTitle": "Frações – Conceito",
+               "content": "As frações representam partes de um todo. Elas são escritas no formato numerador/denominador, onde o numerador indica quantas partes estão sendo consideradas e o denominador indica em quantas partes o todo foi dividido."
+            },
+            {
+               "title": "O que é uma fração?",
+               "content": "Uma fração expressa uma divisão de um número inteiro.\nExemplo: Se uma pizza é dividida em 8 partes iguais e você come 3 partes, isso pode ser representado por 3/8."
+            },
+            {
+               "title": "Tipos de Frações",
+               "content": ""
+            },
+            {
+               "subTitle": "Fração Própria",
+               "content": "O numerador é menor que o denominador, representando um valor menor que 1.\nExemplo: 2/5, 7/9"
+            },
+            {
+               "subTitle": "Fração Imprópria",
+               "content": "O numerador é maior ou igual ao denominador, representando um valor igual ou maior que 1.\nExemplo: 5/4, 9/3"
+            },
+            {
+               "subTitle": "Fração Aparente",
+               "content": "É um tipo de fração imprópria que resulta em um número inteiro.\nExemplo: 6/3 = 2, 10/5 = 2"
+            },
+            {
+               "subTitle": "Fração Mista",
+               "content": "Combina um número inteiro com uma fração própria.\nExemplo: 2 1/3 (lê-se 'dois inteiros e um terço')"
+            },
+            {
+               "title": "Frações Equivalentes",
+               "content": "Duas frações podem representar o mesmo valor quando multiplicamos ou dividimos o numerador e o denominador pelo mesmo número.\nExemplo: 1/2 = 2/4 = 3/6"
+            },
+            {
+               "title": "Simplificação de Frações",
+               "content": "Uma fração pode ser reduzida ao seu formato mais simples dividindo numerador e denominador pelo mesmo número.\nExemplo:\n8/12 pode ser simplificado dividindo ambos por 4:\n8/12 = 2/3"
+            },
+            {
+               "title": "Frações em Números Decimais",
+               "content": "Para converter uma fração em decimal, basta dividir o numerador pelo denominador.\nExemplo:\n3/4 = 3 ÷ 4 = 0.75"
+            }
+         ],
+         "quiz": [
+            {
+               "question": "O que uma fração representa?",
+               "options": [
+                  "Uma soma de números inteiros",
+                  "Uma multiplicação de dois números",
+                  "A divisão de um número inteiro",
+                  "Uma subtração entre números inteiros"
+               ],
+               "answer": "A divisão de um número inteiro"
+            },
+            {
+               "question": "Qual das seguintes frações é uma fração própria?",
+               "options": [
+                  "7/9",
+                  "9/3",
+                  "10/5",
+                  "5/4"
+               ],
+               "answer": "7/9"
+            },
+            {
+               "question": "Qual tipo de fração resulta sempre em um número inteiro?",
+               "options": [
+                  "Fração Própria",
+                  "Fração Mista",
+                  "Fração Imprópria",
+                  "Fração Aparente"
+               ],
+               "answer": "Fração Aparente"
+            },
+            {
+               "question": "Qual das frações abaixo é equivalente a 1/2?",
+               "options": [
+                  "3/4",
+                  "2/4",
+                  "4/5",
+                  "5/6"
+               ],
+               "answer": "2/4"
+            },
+            {
+               "question": "O que significa simplificar uma fração?",
+               "options": [
+                  "Multiplicar o numerador e denominador pelo mesmo número",
+                  "Subtrair o denominador do numerador",
+                  "Dividir o numerador e denominador pelo mesmo número",
+                  "Somar 1 ao denominador"
+               ],
+               "answer": "Dividir o numerador e denominador pelo mesmo número"
+            },
+            {
+               "question": "Qual é o valor decimal de 3/4?",
+               "options": [
+                  "0.5",
+                  "0.25",
+                  "0.75",
+                  "1.25"
+               ],
+               "answer": "0.75"
+            }
+         ]
+      },
+      {
+         "title": "Números Decimais",
+         "text": [
+            {
+               "mainTitle": "Números Decimais",
+               "content": "Os números decimais representam valores não inteiros e são escritos com uma vírgula ou ponto para separar a parte inteira da parte fracionária. No sistema internacional, usa-se o ponto decimal (exemplo: 3.75), enquanto no Brasil, usa-se a vírgula (exemplo: 3,75)."
+            },
+            {
+               "title": "Estrutura dos Números Decimais",
+               "content": "Um número decimal é composto por:\nParte inteira: valor antes da vírgula ou ponto.\nParte decimal: valor após a vírgula ou ponto.\nExemplo: No número 12.45, 12 é a parte inteira e 45 é a parte decimal."
+            },
+            {
+               "title": "Leitura de Números Decimais",
+               "content": "Cada casa decimal representa uma fração de base 10:\n0.1 = um décimo\n0.01 = um centésimo\n0.001 = um milésimo\nExemplo: 0.75 é lido como 'setenta e cinco centésimos'."
+            },
+            {
+               "title": "Conversão entre Decimal e Fração",
+               "content": "Os números decimais podem ser convertidos para frações.\nExemplo:\n0.5 = 5/10 = 1/2\n0.25 = 25/100 = 1/4"
+            },
+            {
+               "title": "Operações com Decimais",
+               "content": "Os números decimais podem ser somados, subtraídos, multiplicados e divididos como números inteiros, mas é necessário alinhar as casas decimais corretamente.\nExemplo:\n2.3 + 1.75 = 4.05"
+            }
+         ],
+         "quiz": [
+            {
+               "question": "O que separa a parte inteira da parte decimal em um número decimal?",
+               "options": [
+                  "Um traço (-)",
+                  "Uma barra (/)",
+                  "Uma vírgula ou ponto",
+                  "Um espaço em branco"
+               ],
+               "answer": "Uma vírgula ou ponto"
+            },
+            {
+               "question": "Como é lido o número decimal 0.01?",
+               "options": [
+                  "Um décimo",
+                  "Um centésimo",
+                  "Um milésimo",
+                  "Dez centésimos"
+               ],
+               "answer": "Um centésimo"
+            },
+            {
+               "question": "Qual fração equivale ao número decimal 0.5?",
+               "options": [
+                  "1/4",
+                  "3/5",
+                  "1/2",
+                  "2/3"
+               ],
+               "answer": "1/2"
+            },
+            {
+               "question": "Qual o resultado da soma 3.4 + 2.6?",
+               "options": [
+                  "5.0",
+                  "6.0",
+                  "5.8",
+                  "6.2"
+               ],
+               "answer": "6.0"
+            }
+         ]
+      },
+      {
+         "title": "Unidades de Medida",
+         "text": [
+            {
+               "mainTitle": "Unidades de Medida",
+               "content": "As unidades de medida são usadas para expressar grandezas como comprimento, massa, tempo e volume."
+            },
+            {
+               "title": "Comprimento",
+               "content": "Medimos o tamanho ou a distância usando:\n- Milímetro (mm)\n- Centímetro (cm)\n- Metro (m)\n- Quilômetro (km)\nExemplo: 1 km = 1000 m"
+            },
+            {
+               "title": "Massa",
+               "content": "Usamos para medir o peso dos objetos:\n- Miligrama (mg)\n- Grama (g)\n- Quilograma (kg)\n- Tonelada (t)\nExemplo: 1 kg = 1000 g"
+            },
+            {
+               "title": "Volume",
+               "content": "Usamos para medir líquidos e espaços ocupados:\n- Mililitro (mL)\n- Litro (L)\n- Metro cúbico (m³)\nExemplo: 1 L = 1000 mL"
+            },
+            {
+               "title": "Tempo",
+               "content": "O tempo é medido em:\n- Segundo (s)\n- Minuto (min)\n- Hora (h)\n- Dia, semana, mês, ano\nExemplo: 1 hora = 60 minutos"
+            },
+            {
+               "title": "Conversões entre Unidades",
+               "content": "Para converter entre unidades, basta multiplicar ou dividir pelo fator correspondente.\nExemplo: Para converter 500 cm para metros, basta dividir por 100:\n500 cm ÷ 100 = 5 m"
+            }
+         ],
+         "quiz": [
+            {
+               "question": "Quantos metros há em 1 quilômetro?",
+               "options": [
+                  "10",
+                  "100",
+                  "1000",
+                  "10.000"
+               ],
+               "answer": "1000"
+            },
+            {
+               "question": "Qual unidade usamos para medir o peso de um objeto?",
+               "options": [
+                  "Metro",
+                  "Litro",
+                  "Grama",
+                  "Segundo"
+               ],
+               "answer": "Grama"
+            },
+            {
+               "question": "Quantos mililitros há em 2 litros?",
+               "options": [
+                  "200",
+                  "2000",
+                  "20.000",
+                  "2.000.000"
+               ],
+               "answer": "2000"
+            },
+            {
+               "question": "Quantos minutos há em 2 horas?",
+               "options": [
+                  "30",
+                  "60",
+                  "120",
+                  "240"
+               ],
+               "answer": "120"
+            }
+         ]
+      },
+      {
+         "title": "Figuras Geométricas",
+         "text": [
+            {
+               "mainTitle": "Figuras Geométricas",
+               "content": "As figuras geométricas podem ser classificadas em planas (bidimensionais) e espaciais (tridimensionais)."
+            },
+            {
+               "title": "Figuras Planas",
+               "content": "São aquelas que possuem apenas altura e largura.\n- Triângulo: três lados e três ângulos.\n- Quadrado: quatro lados iguais e ângulos retos.\n- Retângulo: lados opostos iguais e ângulos retos.\n- Círculo: figura redonda sem lados."
+            },
+            {
+               "title": "Figuras Espaciais",
+               "content": "São aquelas que possuem altura, largura e profundidade.\n- Cubo: seis faces quadradas.\n- Paralelepípedo: faces retangulares.\n- Esfera: completamente arredondada, como uma bola.\n- Pirâmide: base poligonal e faces triangulares."
+            },
+            {
+               "title": "Perímetro e Área",
+               "content": "O perímetro é a soma dos lados da figura, e a área é o espaço ocupado dentro dela.\nExemplo:\n- Área do quadrado = lado × lado\n- Área do círculo = π × raio²"
+            }
+         ],
+         "quiz": [
+            {
+               "question": "Qual figura geométrica tem quatro lados iguais e ângulos retos?",
+               "options": [
+                  "Triângulo",
+                  "Retângulo",
+                  "Quadrado",
+                  "Círculo"
+               ],
+               "answer": "Quadrado"
+            },
+            {
+               "question": "Qual dessas é uma figura espacial?",
+               "options": [
+                  "Triângulo",
+                  "Quadrado",
+                  "Esfera",
+                  "Círculo"
+               ],
+               "answer": "Esfera"
+            },
+            {
+               "question": "Como se calcula a área de um círculo?",
+               "options": [
+                  "Base × altura",
+                  "Lado × lado",
+                  "π × raio²",
+                  "Soma dos lados"
+               ],
+               "answer": "π × raio²"
+            },
+            {
+               "question": "Quantas faces um cubo possui?",
+               "options": [
+                  "4",
+                  "6",
+                  "8",
+                  "10"
+               ],
+               "answer": "6"
+            }
+         ]
+      }
+   ]
+}
