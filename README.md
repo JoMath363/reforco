@@ -1,12 +1,4 @@
-# React + Vite
+# Reforço
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+O Reforço é um projeto voltado para alunos do ensino fundamental. Com o objetivo de tornar o aprendizado mais acessível e dinâmico, a plataforma oferece conteúdos explicativos e quizzes práticos para consolidar o conhecimento em diversas matérias.
+Cada tema foi selecionado para construir uma base sólida de aprendizado, permitindo que os alunos revisem e pratiquem de maneira simples e eficiente. O foco é oferecer um espaço de estudo que torne o processo de aprendizado mais envolvente e eficaz.
