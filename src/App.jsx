@@ -41,7 +41,7 @@ function App() {
          <footer>
             <h2>Desenvolvido por José Mathias</h2>
 
-            <a href='#'>
+            <a href='https://github.com/JoMath363' target="_blank">
                <img src={githubIcon} />
                <span>JoMath363</span>
             </a>
